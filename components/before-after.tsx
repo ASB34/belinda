@@ -95,8 +95,8 @@ const testimonials = [
     duration: '6 Hafta Kullanım',
     product: 'At Kuyruğu Şampuan',
     quote: 'Saç dökülmem gözle görülür şekilde azaldı. Artık fırçamda çok daha az saç kalıyor.',
-    beforeImage: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400&h=500&fit=crop&crop=top',
-    afterImage: 'https://images.unsplash.com/photo-1519699047748-de8e457a634e?w=400&h=500&fit=crop&crop=top',
+    beforeImage: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/atkuyru%C4%9Fu1-S3o8M9yWDqw7FzUm1OM7tqaYHPLPqY.png',
+    afterImage: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/atkuyru%C4%9Fu2-Yd92a6utrd9f4N8cq9uezKOiHmIQPz.png',
   },
   {
     id: 2,
@@ -104,8 +104,8 @@ const testimonials = [
     duration: '8 Hafta Kullanım',
     product: 'Black Pigment Şampuan',
     quote: 'Beyazlayan saçlarım artık çok daha canlı ve koyu görünüyor. Mükemmel sonuç!',
-    beforeImage: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop&crop=top',
-    afterImage: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=500&fit=crop&crop=top',
+    beforeImage: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/black1-alQkBeDCsc7SuouAsSeRIvN3v6vk5m.png',
+    afterImage: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/black2-YDwCy0u4AuRpT8ZiiDzDnwlwVrybwa.png',
   },
 ]
 
