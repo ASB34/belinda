@@ -72,13 +72,12 @@ export function Footer() {
 
               {/* Contact Info */}
               <div className="space-y-3 text-sm text-background/70">
-                <a href="mailto:info@belinda.com.tr" className="flex items-center gap-2 hover:text-background transition-colors">
+                <a href="mailto:info@belindashampoo.com" className="flex items-center gap-2 hover:text-background transition-colors">
                   <Mail className="w-4 h-4" />
-                  info@belinda.com.tr
+                  info@belindashampoo.com
                 </a>
                 <a href="tel:+908501234567" className="flex items-center gap-2 hover:text-background transition-colors">
                   <Phone className="w-4 h-4" />
-                  0850 123 45 67
                 </a>
                 <span className="flex items-center gap-2">
                   <MapPin className="w-4 h-4" />
